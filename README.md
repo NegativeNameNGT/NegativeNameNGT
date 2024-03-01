@@ -9,6 +9,8 @@ My current project is a next-generation multiplayer Star Wars: The Old Republic 
     <img src='https://github.com/NegativeNameNGT/NegativeNameNGT/assets/79408258/133d1c34-1dd5-4722-8628-2ea91281411a' width='500' style="margin-left: 10px;">
 </div>
 
+*Work in progress*
+
 ### 📊 My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NegativeNameNGT)](https://github.com/anuraghazra/github-readme-stats)
 
