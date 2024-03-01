@@ -12,5 +12,13 @@ My current project is a next-generation multiplayer Star Wars: The Old Republic 
 ### 📊 My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NegativeNameNGT)](https://github.com/anuraghazra/github-readme-stats)
 
+### My skills
+- **C++**
+- **C#**
+- **Go**
+- **Lua**
+- **Unreal Engine**
+- **PostgreSQL**
+
 ### Contact
 ✉ [negativenamengt@gmail.com](mailto:negativenamengt@gmail.com)
