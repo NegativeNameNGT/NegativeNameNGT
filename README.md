@@ -4,7 +4,7 @@ I am NegativeName, a french student that loves creating experiences and tools in
 
 My current project is a next-generation multiplayer Star Wars: The Old Republic RP game-mode on the [nanos-world](https://nanos.world/) sandbox game.
 
-<div>
+<div align="left">
   <img src='https://github.com/NegativeNameNGT/NegativeNameNGT/assets/79408258/2b496eda-dbda-4254-ad02-4939aa8d1dcd' width='500'>
   <img src='https://github.com/NegativeNameNGT/NegativeNameNGT/assets/79408258/133d1c34-1dd5-4722-8628-2ea91281411a' width='500'>
 </div>
